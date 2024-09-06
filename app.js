@@ -1,18 +1,13 @@
 const prolist=[
+
     {
         id:0,
-        nam:"String Chat App",
-        image:"image/string.png",
-        text:"This chat app uses Socket.io and Node.js to enable anonymous users to communicate securely in real-time using encrypted messages. The HTML/CSS interface ensures a smooth user experience, while Node.js handles the backend. ",
-        link:"#"
-    },{
-        id:1,
         nam:"Color Guess Game",
         image:"image/colorguessgame.png",
         text:"Color Guess Game is a simple guessing game where the player has to guess a color based on a given hint. The game is implemented using HTML, CSS, and JavaScript, and involves basic DOM manipulation and event handling.",
         link:"#"
     },{
-        id:2,
+        id:1,
         nam:"Whack A Mole",
         
         image:"image/whackamole.png",
@@ -20,28 +15,28 @@ const prolist=[
         link:"#"
     },
     {
-        id:3,
+        id:2,
         nam:"calculator",
         image:"image/calc.png",
         text:"A calculator app with a GUI provides users with a visual interface to perform arithmetic operations. The GUI is designed using HTML, CSS, and JavaScript with libraries/frameworks like React or Vue.js. It includes a keypad, a display area, and buttons for various functions. Event handling and DOM manipulation allow for real-time calculation.",
         link:"#"
     },
     {
-        id:4,
+        id:3,
         nam:"Amazon FE clone",
         image:"image/amazon.png",
         text:"An Amazon front-end clone is a web application that emulates the Amazon e-commerce platform's user interface. It is created with HTML, CSS, and JavaScript, using React and Bootstrap frameworks. Features include product listings, search functionality, shopping cart, and checkout. Responsive design ensures a smooth user experience across devices.",
         link:"#"
     },
     {
-        id:5,
+        id:4,
         nam:"Canvas",
         image:"image/canvas.png",
         text:"A basic canvas app utilizes the HTML5 canvas element and JavaScript to create a canvas that changes color of writing on its own. The canvas includes a drawing tool, and the color of the writing is changed through JavaScript code that modifies the fill color randomly or based on a specific pattern. Event handling is used to capture user input and DOM manipulation is used to update the canvas in real-time.",
         link:"#"
     },
     {
-        id:6,
+        id:5,
         nam:"Upcoming Projects",
         image:"image/wait.jpg",
         text:"I am thrilled to share that I have several upcoming projects in the pipeline! I am currently working on developing a state-of-the-art school management system that can perform CRUD operations, simplifying the workload for educators. In addition, I am also working on a machine learning project, specifically a chronic kidney disease detector that utilizes advanced algorithms to detect early signs of the condition. I take pride in staying ahead of the curve and developing innovative solutions to complex problems. Stay tuned for more updates on these exciting projects! ",
